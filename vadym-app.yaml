@@ -12,7 +12,7 @@ spec:
     targetRevision: vadym-test
   destination:
     name: in-cluster
-    namespace: default
+    namespace: vadym-app
   syncPolicy:
     automated:
       prune: false
