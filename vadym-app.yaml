@@ -7,7 +7,7 @@ metadata:
 spec:
   project: default
   source:
-    path: .
+    path: helm-guestbook
     repoURL: https://github.com/denis-codefresh/argocd-example-apps.git
     targetRevision: vadym-test
   destination:
