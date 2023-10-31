@@ -9,7 +9,7 @@ spec:
   source:
     path: .
     repoURL: https://github.com/denis-codefresh/argocd-example-apps.git
-    targetRevision: HEAD
+    targetRevision: vadym-test
   destination:
     name: in-cluster
     namespace: default
